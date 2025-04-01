@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**BryanLaquimam/BryanLaquimam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--# Apresentação Pessoal
 
-Here are some ideas to get you started:
+## Olá, meu nome é Bryan Laquimam Lübke Gonçalves!
+Sou estudante do curso de Análise e Desenvolvimento de Sistemas (ADS) no Centro Universitário de Pelotas, atualmente no 3º semestre. Tenho interesse em tecnologia e desenvolvimento de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades
+
+- Conhecimentos básicos em:
+  - JavaScript
+  - TypeScript
+  - React
+  - HTML
+  - CSS
+  - Python
+  
+## Contato
+
+- **E-mail**: bryanlaquimam256@gmail.com
+- **LinkedIn**: 
+- **GitHub**: https://github.com/BryanLaquimam
+
+---
+
+Agradeço a visita ao meu perfil!
