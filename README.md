@@ -2,7 +2,7 @@
 
 <p align="center">
   Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> (5º semestre)  
-  e desenvolvedor <strong>Front-end</strong> em formação.
+  e desenvolvedor <strong>Full-Stack</strong> em formação.
 </p>
 
 ---
