@@ -50,7 +50,7 @@
 ---
 
 ## ✨ Projetos em destaque
-🔹 Amigo!: https://pedro-filipe-bernardo-brian-gabriel.vercel.app/
+🔹 AmiGo!: https://pedro-filipe-bernardo-brian-gabriel.vercel.app/
 🔹 Help Desk: https://lpe-1-front.vercel.app/
 
 ---
