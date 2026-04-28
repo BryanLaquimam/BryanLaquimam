@@ -50,9 +50,8 @@
 ---
 
 ## ✨ Projetos em destaque
-🔹 
-🔹 
-🔹   
+🔹 https://pedro-filipe-bernardo-brian-gabriel.vercel.app/
+🔹 https://lpe-1-front.vercel.app/
 
 ---
 
